@@ -1,0 +1,32 @@
+[
+  {
+    "title": "고성능 나스 시스템",
+    "subtitle": "24/40/60Bay NAS",
+    "desc": "고성능 NAS 스토리지\n대용량 데이터 처리와 최적의 워크플로우 지원",
+    "image": "assets/products/product_1.jpg"
+  },
+  {
+    "title": "Mac Studio",
+    "subtitle": "렌탈 서비스",
+    "desc": "M2 Ultra 칩의 강력한 성능\n전문가를 위한 효율적인 선택",
+    "image": "assets/products/product_2.jpg"
+  },
+  {
+    "title": "Mac Pro",
+    "subtitle": "방송 편집 시스템",
+    "desc": "Intel 기반 확장성 높은 시스템\n대규모 편집 작업에 최적화",
+    "image": "assets/products/product_3.jpg"
+  },
+  {
+    "title": "워크스테이션",
+    "subtitle": "AI / 영상 제작",
+    "desc": "고사양 작업을 위한 맞춤형\n워크스테이션 솔루션",
+    "image": "assets/products/product_4.jpg"
+  },
+    {
+    "title": "Network Switch",
+    "subtitle": "10G / 40G / 100G 네트워크 스위치",
+    "desc": "고속 네트워크 환경을 위한 맞춤형 맞춤형 네트워크 렌탈 및 구축 서비스",
+    "image": "assets/products/product_5.jpg"
+  }
+]

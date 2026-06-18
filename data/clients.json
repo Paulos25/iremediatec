@@ -1,0 +1,26 @@
+[
+  {
+    "name": "JTBC",
+    "image": "assets/clients/jtbc.png"
+  },
+  {
+    "name": "방송통신대학교",
+    "image": "assets/clients/knou.png"
+  },
+  {
+    "name": "AR Media",
+    "image": "assets/clients/ar-media.png"
+  },
+  {
+    "name": "NS홈쇼핑",
+    "image": "assets/clients/ns-home-shopping.png"
+  },
+  {
+    "name": "KBS",
+    "image": "assets/clients/client-kbs.png"
+  },
+  {
+    "name": "MBC",
+    "image": "assets/clients/client-mbc.png"
+  }
+]

@@ -66,6 +66,7 @@ footer{width:1380px;margin:0 auto;background:#07111f;color:#dbe5f0;padding:34px 
   .features{
     grid-template-columns:1fr 1fr;
     padding:42px 22px;
+    row-gap:50px;
   }
   .features article{border-left:none}
 

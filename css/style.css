@@ -20,8 +20,10 @@ footer{width:1380px;margin:0 auto;background:#07111f;color:#dbe5f0;padding:34px 
   .top-btn{height:42px;padding:0 16px;font-size:13px;gap:12px}
 
   .hero{
-  height:520px;
-}
+    height:460px;
+    min-height:0;
+    padding:0 22px;
+  }
 
   .hero-bg{
   background:
@@ -32,16 +34,29 @@ footer{width:1380px;margin:0 auto;background:#07111f;color:#dbe5f0;padding:34px 
     rgba(248,250,252,.25) 70%,
     rgba(248,250,252,.05) 100%
   ),
-  url('../assets/ui/hero.png') 85% center/75% auto no-repeat;
+  url('../assets/ui/hero.png') 85% center/80% auto no-repeat;
 }
 
   .hero-copy{
-  padding-top:40px;
-}
+    padding:36px 0 0;
+  }
 
-  .hero h1{font-size:46px}
-  .hero p{font-size:15px;line-height:1.7}
-  .hero-actions{gap:12px;flex-wrap:wrap}
+  .hero h1{
+    font-size:42px;
+    line-height:1;
+    margin:0 0 20px;
+  }
+
+  .hero p{
+    font-size:14px;
+    line-height:1.55;
+    margin:0 0 20px;
+  }
+
+  .hero-actions{
+    gap:10px;
+    flex-wrap:wrap;
+  }
   .btn{height:48px;padding:0 20px}
 
   .features{

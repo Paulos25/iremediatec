@@ -20,25 +20,30 @@ footer{width:1380px;margin:0 auto;background:#07111f;color:#dbe5f0;padding:34px 
   .top-btn{height:42px;padding:0 16px;font-size:13px;gap:12px}
 
   .hero{
-    height:640px;
-  }
+  height:560px;
+  position:relative;
+  overflow:hidden;
+}
 
   .hero-bg{
-    inset:0;
-    background:
-      linear-gradient(
-        180deg,
-        #f8fafc 0%,
-        #f8fafc 42%,
-        rgba(248,250,252,.82) 58%,
-        rgba(248,250,252,.35) 100%
-      ),
-      url('../assets/ui/hero.png') center bottom/100% auto no-repeat;
-  }
+  position:absolute;
+  inset:0;
+  background:
+    linear-gradient(
+      90deg,
+      #f8fafc 0%,
+      rgba(248,250,252,.9) 45%,
+      rgba(248,250,252,.38) 75%,
+      rgba(248,250,252,.08) 100%
+    ),
+    url('../assets/ui/hero.png') 78% center/cover no-repeat;
+}
 
   .hero-copy{
-    padding:52px 22px 260px;
-  }
+  position:relative;
+  max-width:none;
+  padding:48px 22px 0;
+}
 
   .hero h1{
     font-size:42px;

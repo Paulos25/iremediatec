@@ -40,5 +40,35 @@
     "subtitle": "Logging Date\n Computer용\n 워크스테이션 납품",
     "desc": "Logging Date용\nDell 워크스테이션 납품",
     "image": "assets/projects/project_7.png"
+  },    
+    {
+    "title": "MBC충북",
+    "subtitle": "AI돌봄\n제작 지원 및 납품",
+    "desc": "방송대상 우수상\n당선작 AI돌봄\n제작 지원 및\nNLE, DAS 납품",
+    "image": "assets/projects/project_8.png"
+  },
+    {
+    "title": "국방부",
+    "subtitle": "NLE 납품",
+    "desc": "고해상도 영상 편집용 NLE 납품",
+    "image": "assets/projects/project_9.png"
+  },
+    {
+    "title": "스튜디오 26마일즈",
+    "subtitle": "녹음실 구축\nD.A.W 납품\n네트워크 시스템 구축",
+    "desc": "녹음실 신규 구축\nD.A.W 납품\n네트워크 시스템 구축",
+    "image": "assets/projects/project_10.png"
+  },
+    {
+    "title": "JTBC",
+    "subtitle": "녹음실 리모델링 및\nD.A.W 납품",
+    "desc": "녹음실 2개 부스 리모델링\nD.A.W 납품",
+    "image": "assets/projects/project_11.png"
+  },
+    {
+    "title": "아이유노 글로벌",
+    "subtitle": "이동형 D.A.W / NLE 납품",
+    "desc": "이동형 D.A.W 및 NLE 납품",
+    "image": "assets/projects/project_12.png"
   }
 ]

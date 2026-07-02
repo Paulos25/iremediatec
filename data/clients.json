@@ -12,15 +12,31 @@
     "image": "assets/clients/ar-media.png"
   },
   {
-    "name": "NS홈쇼핑",
-    "image": "assets/clients/ns-home-shopping.png"
+    "name": "코레일",
+    "image": "assets/clients/korail.png"
   },
   {
-    "name": "KBS",
-    "image": "assets/clients/client-kbs.png"
+    "name": "STUDIO SLAM",
+    "image": "assets/clients/slam.png"
   },
   {
-    "name": "MBC",
-    "image": "assets/clients/client-mbc.png"
+    "name": "MBN",
+    "image": "assets/clients/mbn.png"
+  },
+  {
+    "name": "춘천MBC",
+    "image": "assets/clients/chmbc.png"
+  },  
+  {
+    "name": "롯데홈쇼핑",
+    "image": "assets/clients/lotteshop.png"
+  },
+  {
+    "name": "매직스튜디오",
+    "image": "assets/clients/magicstudio.png"
+  },
+  {
+    "name": "TV조선",
+    "image": "assets/clients/tvchosun.png"
   }
 ]
